@@ -1,0 +1,7 @@
+name: MinimalSkinUpdater
+version: 1.0.0
+main: com.danidipp.minimalskinupdater.MSUPlugin
+description: Proof-of-concept Paper plugin for updating player skins on the fly
+author: DaniDipp
+website: https://github.com/DaniDipp
+api-version: '1.20'
